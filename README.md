@@ -27,6 +27,6 @@ New project of home automation will be linked soon. If I forget to add, send me 
 
 Snapshot of the Android App, Arduino Setup and Azure Dashboard:
 
-![image] 1.jpg
-![image] 2.jpg
-![image] 3.jpg
+![image] (1.jpg)
+![image] (2.jpg)
+![image] (3.jpg)
