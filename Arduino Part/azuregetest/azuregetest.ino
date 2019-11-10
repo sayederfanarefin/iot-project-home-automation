@@ -21,7 +21,7 @@ const char *table_name = "erfanroomservice";
  
 // Azure Mobile Service Application Key
 // You can find this key in the 'Manage Keys' menu on the dashboard
-const char *ams_key = "rctFRmkNiKsYDEltDhlnLxMWXzVWHR12";
+const char *ams_key = "";
 String testreturn = "";
   String testreturn2 = ""; 
   String finalresult = "";
