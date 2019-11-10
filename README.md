@@ -1,6 +1,8 @@
 # IoT: Home Automation
 ## Microsoft Azure + Android +Arduino
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
 More details can be found on: http://hypernephelist.com/2014/07/11/arduino-uno-azure-mobile-services.html
 
 In 2019, when I reviewd this code, Azure stopped providing the cloud service that was used here.
