@@ -28,5 +28,9 @@ New project of home automation will be linked soon. If I forget to add, send me 
 Snapshot of the Android App, Arduino Setup and Azure Dashboard:
 
 ![Arduino](https://raw.githubusercontent.com/sayederfanarefin/iot-project-home-automation/master/1.jpg)
+
+
 ![Azure Dashboard](https://raw.githubusercontent.com/sayederfanarefin/iot-project-home-automation/master/2.jpg)
+
+
 ![Android App](https://raw.githubusercontent.com/sayederfanarefin/iot-project-home-automation/master/3.jpg)
