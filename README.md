@@ -1,7 +1,7 @@
 # IoT: Home Automation
 ## Microsoft Azure + Android +Arduino
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/sayederfanarefin/iot-project-home-automation.svg)](http://hits.dwyl.io/sayederfanarefin/iot-project-home-automation)
 
 More details can be found on: http://hypernephelist.com/2014/07/11/arduino-uno-azure-mobile-services.html
 
